@@ -8,8 +8,8 @@ const path = require("path");
 const cors = require("cors");
 
 const allowedOrigins = [
-  'https://your-frontend-url.vercel.app',  // Replace with your frontend URL
-  'https://your-admin-url.vercel.app'      // Replace with your admin panel URL
+  'https://ecommerce-mu-umber.vercel.app/',
+  "https://ecommerce-admin-drab-beta.vercel.app/"
 ];
 
 app.use(cors({
